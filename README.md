@@ -1,8 +1,8 @@
 ## Hey,  Mohamed Gaber is here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h1>Welcome To My profile ! </h1> 
+<h1>Welcome To My profile! </h1> 
 
-<img src = 'https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?w=2000' alt = 'Joonguini' width='500px' height='500px' align='right'/>
+<img src = 'https://img.freepik.com/premium-vector/frontend-developer-illustration-concept-illustration-websites-landing-pages-mobile-applications-posters-banners_108061-781.jpg?w=740' alt = 'Joonguini' width='500px' height='500px' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20gaber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-gaber-476996266///)](https://www.linkedin.com/in/mohamed-gaber-476996266/) 
 <div style="text-align: right">Programming is My Life 🤩 🥳 </div>
